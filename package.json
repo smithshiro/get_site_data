@@ -1,0 +1,15 @@
+{
+  "name": "get_site_data",
+  "version": "1.0.0",
+  "description": "copy site data as html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "smithshiro",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio-httpcli": "^0.7.4",
+    "url": "^0.11.0"
+  }
+}
